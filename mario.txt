@@ -1,1 +1,4 @@
 In this program we will made Mario game for beginers
+we will try to do basic stuff
+--------------------------------------------------
+we will also try to do automate this project with machine learning
